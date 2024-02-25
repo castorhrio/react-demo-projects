@@ -1,8 +1,9 @@
 import express from "express";
 import cors from "cors";
 import dotenv from "dotenv";
-import dbConnection from "./db/dbConnection";
-import { errorMiddleware } from "./error/error";
+import dbConnection from "./db/dbConnection.js";
+import { errorMiddleware } from "./error/error.js";
+import router from "./routes/route.js";
 
 const app = express();
 dotenv.config({ path: "./config/config.env" });
@@ -15,8 +16,10 @@ app.use(
   })
 );
 
+app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
-app.use(express.urlencoded({ extends: true }));
+
+app.use("/api/v1/restaurant", router);
 
 dbConnection();
 
