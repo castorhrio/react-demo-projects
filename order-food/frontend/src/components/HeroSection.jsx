@@ -11,15 +11,15 @@ const HeroSection = () => {
             <h1 className="title">美味</h1>
           </div>
 
-          <div className="combined_boxs">
+          <div className="combined_boxes">
             <div className="imageBox">
               <img src="/hero1.png" alt="hero" />
             </div>
 
             <div className="textAndLogo">
               <div className="textWithSvg">
-                <h1 className="title">美食</h1>
-                <h1 className="title dishes_title">菜单</h1>
+                <h1 className="title">可口</h1>
+                <h1 className="title dishes_title">开胃</h1>
                 <img src="/threelines.svg" alt="three" />
               </div>
 
@@ -33,7 +33,7 @@ const HeroSection = () => {
             <img src="/hero2.png" alt="hero" />
           </div>
 
-          <h1 className="title dishes_title">菜单</h1>
+          <h1 className="title dishes_title">开胃</h1>
         </div>
       </div>
     </section>

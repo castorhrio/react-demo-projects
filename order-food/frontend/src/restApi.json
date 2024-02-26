@@ -5,96 +5,96 @@
         {
           "id": 1,
           "image": "./quality_food.svg",
-          "title": "QUALITY FOOD",
-          "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis repellendus officia qui repellat."
+          "title": "优质食材",
+          "description": "无论是海鲜、肉类还是蔬果，从农田到餐桌，经过严格的甄选和质检，确保每一道佳肴的味道都能让人回味无穷。"
         },
         {
           "id": 2,
           "image": "./super_taste.svg",
-          "title": "SUPER TASTE",
-          "description": "Lorem ipsum dolor sit amet consectetur, adipisicing sit amet elit. Sit voluptates quaerat pariatur."
+          "title": "口味多样",
+          "description": "从中式到西式，从甜品到咸菜，无论是川菜的辣味，粤菜的鲜美，还是江浙菜的清淡，每个地区的美食应有尽有。"
         },
         {
           "id": 3,
           "image": "./fast_delivery.svg",
-          "title": "FAST DELIVERY",
-          "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis repellendus officia qui repellat."
+          "title": "快速出餐",
+          "description": "美味无需等待，我们采用流水线出餐方式让每位食客无需等待即刻享受美味。"
         }
       ],
       "dishes": [
         {
           "id": 1,
           "image": "./dinner1.jpeg",
-          "title": "ROASTED LAMB RUMP",
-          "category": "Dinner"
+          "title": "烤羊腿",
+          "category": "主菜"
         },
         {
           "id": 2,
           "image": "./dinner2.png",
-          "title": "CITRUS CURED SALMON",
-          "category": "Dinner"
+          "title": "柑橘腌鲑鱼",
+          "category": "主菜"
         },
         {
           "id": 3,
           "image": "./breakfast1.png",
-          "title": "PAN SEARED SEA BASS",
-          "category": "Breakfast"
+          "title": "香煎鲈鱼",
+          "category": "主菜"
         },
         {
           "id": 4,
           "image": "./dinner3.png",
-          "title": "STUFFED STRAWBERRY",
-          "category": "Dinner"
+          "title": "草莓蛋糕",
+          "category": "甜点"
         },
         {
           "id": 5,
           "image": "./lunch1.png",
-          "title": "BEEF BURGER MEAL",
-          "category": "Lunch"
+          "title": "牛肉汉堡",
+          "category": "小吃"
         },
         {
           "id": 6,
           "image": "./dinner4.png",
-          "title": "MUSSELS SOUP",
-          "category": "Dinner"
+          "title": "贻贝汤",
+          "category": "汤"
         },
         {
           "id": 7,
           "image": "./dinner5.png",
-          "title": "ITALIAN SPAGHETTI",
-          "category": "Dinner"
+          "title": "意大利面",
+          "category": "面食"
         },
         {
           "id": 8,
           "image": "./dinner6.png",
-          "title": "GRILLED FISH",
-          "category": "Dinner"
+          "title": "烤鱼",
+          "category": "主菜"
         }
       ],
       "team": [
         {
           "id": 1,
           "image": "./team_member_1.png",
-          "name": "JOHNATHAN TYLER",
-          "designation": "Founder & Head Chef"
+          "name": "约翰·泰勒",
+          "designation": "创始人兼主厨"
         },
         {
           "id": 2,
           "image": "./team_member_2.png",
-          "name": "WADE WARREN",
-          "designation": "Sous Chef"
+          "name": "韦德·沃伦",
+          "designation": "副主厨"
         },
         {
           "id": 3,
           "image": "./team_member_3.png",
-          "name": "JHON DOE",
-          "designation": "Fast Food Chef"
+          "name": "约翰·多伊",
+          "designation": "快餐厨师"
         },
         {
           "id": 4,
           "image": "./team_member_4.png",
-          "name": "ALEX COAL",
-          "designation": "Senior Chef"
+          "name": "亚历克斯·科尔",
+          "designation": "高级厨师"
         }
       ],
       "testimonials": [
@@ -124,22 +124,22 @@
         {
           "id": 1,
           "number": "14",
-          "title": "Restaurants"
+          "title": "餐厅"
         },
         {
           "id": 2,
           "number": "20",
-          "title": "Chef In Kitchen"
+          "title": "高级厨师"
         },
         {
           "id": 3,
-          "number": "08",
-          "title": "Years Of Experience"
+          "number": "124",
+          "title": "百年老店"
         },
         {
           "id": 4,
           "number": "200",
-          "title": "Food Dishes"
+          "title": "菜品"
         }
       ],
       "navbarLinks": [
