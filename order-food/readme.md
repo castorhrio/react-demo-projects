@@ -10,3 +10,9 @@ FRONTEND_URL = <前端页面访问地址>
 MONGO_URL = <mongodb数据库连接地址>
 
 ```
+
+## 最终效果
+
+![效果图](/order-food/result.png)
+
+![404页面](/order-food/result2.jpg)
